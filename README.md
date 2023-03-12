@@ -3,6 +3,8 @@
 En este dataset se encuentran características de vinos. Con los cuales trataremos de crear un modelo
 para predecir qué vinos tendran un mejor puntaje.
 
+Dataset recuperado de: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
+
 ## Habilidades
 
 En este notebook trabajo habilidades aprendidas en el curso de Random Forest y Tree decision de platzi
